@@ -134,7 +134,7 @@ public class MainActivity extends DefaultActivity {
             case R.id.one_joke:
                 ONE_JOKE = true;
                 Toast toast1 = Toast.makeText(getApplicationContext(),
-                        "Один анекдот", Toast.LENGTH_SHORT);
+                        "Один анекдот ", Toast.LENGTH_SHORT);
                 toast1.show();
                 return true;
             case R.id.three_jokes:
