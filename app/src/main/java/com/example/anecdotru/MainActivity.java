@@ -140,7 +140,7 @@ public class MainActivity extends DefaultActivity {
             case R.id.three_jokes:
                 ONE_JOKE = false;
                 Toast toast2 = Toast.makeText(getApplicationContext(),
-                        "Целых три анекдот ", Toast.LENGTH_SHORT);
+                        "Целых три анекдота ", Toast.LENGTH_SHORT);
                 toast2.show();
             default:
                 return super.onOptionsItemSelected(item);
