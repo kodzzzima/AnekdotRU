@@ -8,7 +8,7 @@
 
 
 ![I](https://github.com/kodzzzima/AnekdotRU/blob/main/a_11.jpg)
-![Image alt2](https://github.com/kodzzzima/AnekdotRU/blob/main/a_2.jpg)
+
 ![Image alt3](https://github.com/kodzzzima/AnekdotRU/blob/main/a_3.jpg)
 ![Image alt4](https://github.com/kodzzzima/AnekdotRU/blob/main/a_4.jpg)
 
