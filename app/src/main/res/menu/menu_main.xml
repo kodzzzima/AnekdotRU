@@ -15,5 +15,6 @@
     <item android:title="Выводить по 3 шутки "
         android:id="@+id/three_jokes"
         app:showAsAction="never"
+
         />
 </menu>
