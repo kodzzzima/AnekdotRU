@@ -126,11 +126,6 @@ public class MainActivity extends DefaultActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.PressFToRespect:
-                Intent browserIntent = new Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://docs.google.com/spreadsheets/d/17SkMybOUwEx1dnFWMe3VUzRbgy5Jwi2L4usZ5-yKYQk/edit#gid=1986591562"));
-                startActivity(browserIntent);
-                return true;
             case R.id.one_joke:
                 ONE_JOKE = true;
                 Toast toast1 = Toast.makeText(getApplicationContext(),
